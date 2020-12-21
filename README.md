@@ -5,25 +5,6 @@ Online Algorithm Store
 
 The project uses the API provided by Django, and the admin system is Django's automatic admin system django-admin.
 
-## Online Instance：
-
-### Online Address
-
-[https://astor.eveneko.com](https://astor.eveneko.com)
-
-Account：student
-
-Password：student
-
-### Administrator
-
-[https://astor.eveneko.com/admin](https://astor.eveneko.com/admin)
-
-Account：student
-
-Password：student
-
-
 ## Installation：
 
 ### Dependency
